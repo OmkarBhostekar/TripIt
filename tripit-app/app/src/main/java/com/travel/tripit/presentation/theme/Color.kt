@@ -1,4 +1,4 @@
-package com.travel.tripit.ui.theme
+package com.travel.tripit.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
